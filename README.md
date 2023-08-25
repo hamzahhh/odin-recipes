@@ -1,1 +1,2 @@
 # odin-recipes
+# This project is a simple website containing a homepage with three links to various Afghan cuisines. The index.html (homepage) file contains a heading with three ahref tags. Each link contains an image with an alt description, ordered and unordered lists. I used git to create directories and files, and transfer them. I also used add and commit as well as git push origin main to push all my files to github. As a note, I should remember to use git add and commit regularly. 
